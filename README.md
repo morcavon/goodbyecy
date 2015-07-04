@@ -8,7 +8,10 @@
 
 
 
-* windows binary 생성시 유의 사항
+
+
+
+**** windows binary 생성시 유의 사항
 spynner 패키지에 있는 browser.py 수정이 필요함
 
 아래 부분을
